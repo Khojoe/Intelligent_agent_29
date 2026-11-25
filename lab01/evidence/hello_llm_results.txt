@@ -1,0 +1,156 @@
+
+============================================================
+TESTING TEMPERATURE: 0
+============================================================
+
+Attempt 1
+----------------------------------------
+**1. Create a “Master Calendar” and block time for everything**  
+- Put all fixed commitments (lectures, labs, work shifts) on a digital calendar (Google Calendar, Outlook, etc.).  
+- Add blocks for study, assignment work, and even short breaks.  
+- Seeing the whole week at a glance helps you spot gaps, avoid double‑booking, and keep deadlines front‑of‑mind.
+
+**2. Prioritize tasks with the “Urgent‑Important” matrix**  
+- At the start of each week, list every task and classify it as *Urgent & Important*, *Important but not urgent*, *Urgent but not important*, or *Neither*.  
+- Tackle the “Urgent & Important” items first, schedule the “Important but not urgent” ones, and delegate or drop the rest.  
+- This keeps you focused on what truly moves you toward your goals instead of reacting to every notification.
+
+**3. Use the “Two‑Minute Rule” and a single‑task focus routine**  
+- If a task will take two minutes or less (replying to an email, making a quick note), do it immediately.  
+- For larger tasks, adopt a 25‑minute focused work block (Pomodoro) followed by a 5‑minute break.  
+- This reduces the temptation to procrastinate, builds momentum, and makes large projects feel more manageable.
+
+Token usage:
+Prompt tokens: 89
+Completion tokens: 358
+Total tokens: 447
+
+Attempt 2
+----------------------------------------
+**1. Create a “Master Calendar” and block time for everything**  
+- Put all fixed commitments (lectures, labs, work shifts) on a digital calendar (Google Calendar, Outlook, etc.).  
+- Add blocks for study, assignment work, and even short breaks.  
+- Seeing the whole week at a glance helps you spot gaps, avoid double‑booking, and keep deadlines front‑of‑mind.
+
+**2. Prioritize tasks with the “Urgent‑Important” matrix**  
+- At the start of each week, list every task and classify it as *Urgent & Important*, *Important but not urgent*, *Urgent but not important*, or *Neither*.  
+- Tackle the “Urgent & Important” items first, schedule the “Important but not urgent” ones, and delegate or drop the rest.  
+- This keeps you focused on what truly moves you toward your goals instead of reacting to every notification.
+
+**3. Use the “Two‑Minute Rule” and a single‑task focus routine**  
+- If a task will take two minutes or less (replying to an email, making a quick phone call), do it immediately.  
+- For larger tasks, adopt a 25‑minute focused work block (Pomodoro) followed by a 5‑minute break.  
+- This reduces the temptation to procrastinate, builds momentum, and makes large projects feel more manageable.
+
+Token usage:
+Prompt tokens: 89
+Completion tokens: 359
+Total tokens: 448
+
+Attempt 3
+----------------------------------------
+**1. Create a “Master Calendar” and block time for everything**  
+- Put all fixed commitments (lectures, labs, work shifts) on a digital calendar (Google Calendar, Outlook, etc.).  
+- Add blocks for study, assignment work, and even short breaks.  
+- Seeing the whole week at a glance helps you spot gaps, avoid double‑booking, and keep deadlines front‑of‑mind.
+
+**2. Prioritize tasks with the “Urgent‑Important” matrix**  
+- At the start of each week, list every task and classify it as *Urgent & Important*, *Important but not urgent*, *Urgent but not important*, or *Neither*.  
+- Tackle the “Urgent & Important” items first, schedule the “Important but not urgent” ones, and delegate or drop the rest.  
+- This keeps you focused on what truly moves you toward your goals instead of reacting to every notification.
+
+**3. Use the “Two‑Minute Rule” and a single‑task focus routine**  
+- If a task will take two minutes or less (replying to an email, making a quick note), do it immediately.  
+- For larger tasks, adopt a 25‑minute focused work block (Pomodoro) followed by a 5‑minute break.  
+- This reduces the temptation to procrastinate, builds momentum, and makes large projects feel more manageable.
+
+Token usage:
+Prompt tokens: 89
+Completion tokens: 358
+Total tokens: 447
+
+============================================================
+TESTING TEMPERATURE: 1
+============================================================
+
+Attempt 1
+----------------------------------------
+**1. Prioritize with a “To‑Do” Matrix**  
+*Break tasks into four quadrants: urgent & important, important but not urgent, urgent but not important, and neither.*  
+- Focus first on the **urgent & important** items (e.g., upcoming exams, project deadlines).  
+- Schedule the **important but not urgent** tasks (e.g., reading ahead, study groups) into dedicated blocks so they don’t become crises.  
+- Treat urgent but low‑value items (e.g., answering a non‑critical email) as quick “quick wins” or delegate if possible.  
+- Anything falling into “neither” can be dropped or postponed.
+
+**2. Adopt Time‑Blocking and the Pomodoro Technique**  
+- **Time‑block**: Allocate fixed hours each day for specific activities (lecture prep, coding practice, gym, family time).  
+- Use a timer for **Pomodoros** (25 min focused work + 5 min break). After four Pomodoros, take a longer break (15–30 min).  
+- This keeps distractions at bay, provides regular rest, and gives clear visual evidence of how you’re spending your day.
+
+**3. Set SMART, Weekly Goals and Review Them**  
+- **Specific, Measurable, Achievable, Relevant, Time‑bound** goals for each week (e.g., “Complete Chapter 5 notes by Thursday 5 pm”).  
+- Write them in a planner or a digital app (Google Calendar, Notion, or Todoist).  
+- End the week with a quick review: Did you meet the goal? What blocked you? Adjust the next week’s plan accordingly.  
+- This loop builds self‑accountability and highlights recurring time‑wasters so you can eliminate them.
+
+Token usage:
+Prompt tokens: 89
+Completion tokens: 426
+Total tokens: 515
+
+Attempt 2
+----------------------------------------
+**1. Adopt a concrete scheduling system (planner or digital calendar)**  
+- **Why it helps:** A visual roadmap turns vague “I’ll study” into a concrete “Tuesday 3 – 5 pm: Econ 101 review.”  
+- **How to do it:** Pick a tool you’ll use consistently—paper planner, Google Calendar, or an app like Todoist. Block out fixed commitments first (lectures, lab sessions, work), then slot in study blocks, meals, and downtime. Review and adjust the schedule each evening.
+
+**2. Prioritize tasks with the “Eisenhower Matrix” (Urgent / Important)**  
+- **Why it helps:** It forces you to focus on what truly matters and prevents last‑minute panic.  
+- **How to do it:** At the start of each week, list all assignments, exams, and errands. Divide them into four boxes:  
+  1. **Urgent & Important** – do immediately (deadlines today).  
+  2. **Important, Not Urgent** – schedule for later (study sessions, project milestones).  
+  3. **Urgent, Not Important** – delegate or shorten (reply to non‑critical emails).  
+  4. **Not Urgent & Not Important** – postpone or drop (social media scrolling).  
+  Keep the focus on boxes 1 and 2, and treat the rest as “nice‑to‑have.”
+
+**3. Use the Pomodoro Technique with realistic breaks**  
+- **Why it helps:** Short bursts of concentrated work (25 min) followed by a brief break (5 min) maintain high focus without burnout.  
+- **How to do it:**  
+  1. Choose a task and set a timer for 25 min.  
+  2. Work until the timer rings; avoid distractions (phone on silent, no browsing).  
+  3. Take a 5‑minute break—stretch, hydrate, or walk.  
+  4. After four Pomodoros, take a longer break (15‑30 min).  
+  This method keeps momentum, makes large assignments feel manageable, and builds a rhythm you can apply to any schedule.
+
+Token usage:
+Prompt tokens: 89
+Completion tokens: 539
+Total tokens: 628
+
+Attempt 3
+----------------------------------------
+Here are three practical ways a university student can sharpen their time‑management skills:
+
+1. **Adopt a Digital Planner or Calendar**  
+   • Schedule every class, assignment deadline, study session, and social event in one place.  
+   • Set reminders 24 hours and 1 hour before each task to stay on track.  
+   • Having a visual overview lets you spot conflicts early and adjust as needed.
+
+2. **Use the Eisenhower Matrix to Prioritize**  
+   • Divide tasks into four quadrants: urgent & important, important but not urgent, urgent but not important, neither.  
+   • Focus first on the “urgent & important” items, then schedule the “important but not urgent” ones.  
+   • This keeps you from spending time on low‑impact activities and ensures critical work gets done on time.
+
+3. **Implement Time‑Blocking with the Pomodoro Technique**  
+   • Allocate fixed blocks (e.g., 90 minutes of study, 10‑minute break) for each subject or project.  
+   • During the block, eliminate distractions (phone off, no email).  
+   • After each block, review progress and adjust the next block—this keeps momentum while preventing burnout.
+
+Applying these three strategies consistently can dramatically reduce last‑minute cramming and help you balance academics, extracurriculars, and personal life more effectively.
+
+Token usage:
+Prompt tokens: 89
+Completion tokens: 411
+Total tokens: 500
+
+All experiments completed.
